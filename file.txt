@@ -1,0 +1,8 @@
+No internet
+Try:
+
+Checking the network cables, modem, and router
+Reconnecting to Wi-Fi
+Running Windows Network Diagnostics
+ERR_INTERNET_DISCONNECTED
+Rupesh<class 'int'>[8, 16, 24, 32, 40, 48, 56, 64, 72, 80]
