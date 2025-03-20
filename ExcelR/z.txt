@@ -1,2 +1,11 @@
 12-03-2024 Start
-date 12- 1 hr
+13 Veriable, DataTypes, Oprators
+14 cnl
+15 cnl
+16 cnl
+17 Looping statment--> While, For, Range Function
+18 
+19
+20
+21
+22

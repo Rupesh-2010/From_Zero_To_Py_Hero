@@ -1,15 +1,15 @@
 # Dict
 # Q.1
-# Words= {
-#     "Madat" : "Help",
-#     "Raaja" : "King",
-#     "shaala" : "school",
-#     "Guru" : "teacher",
-#     "vishay": "Subject"
-# }
-# # S = Words.get("Raaja")
-# Word= input("Enter the words: ")
-# print(Words[Word])
+Words= {
+    "Madat" : "Help",
+    "Raaja" : "King",
+    "shaala" : "school",
+    "Guru" : "teacher",
+    "vishay": "Subject"
+}
+# S = Words.get("Raaja")
+Word= input("Enter the words: ")
+print(Words[Word])
 
 # Q.2
 # Num1 = int(input("Enter the Num 1: "))
