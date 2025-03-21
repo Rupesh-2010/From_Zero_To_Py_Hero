@@ -28,7 +28,7 @@
 # for i in range (3,14):
 #     print(i)
 
-L = [15,30,45,70,60,63]
-for i in L:
-    if (i % 15==0 or i % 30==0):
-        print(i)
+# L = [15,30,45,70,60,63]
+# for i in L:
+#     if (i % 15==0 or i % 30==0):
+#         print(i)
