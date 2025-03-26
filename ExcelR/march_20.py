@@ -33,3 +33,29 @@ S2 = {1,2,3,4,5}
 
 
 #Dict
+"""Dict Identify by {}
+    Dict is a set of KeyL Value pair.
+    is is Unorded, (B.coz of No index value asosciated with it.)
+    Key is Unique and Value Can be repeated."""
+    
+A = {
+    "Rupesh" : "Desai",
+    "om" : "D",
+    "S" : "M",
+    "Rupesh" : "DD"
+}
+# print(type(A)) #Dict
+# print(A)
+# print(A['Rupesh']) #desai
+
+B = {
+    "Roll Num" : 12,
+    "Name" : "ABC",
+    "Sub" : 'English'
+}
+
+# B.update({"Name": "Rupes"}) #अपडेट करेल abc to  RUpes. Dict  मधील Value  बडल्यानसाठी हिसतरीकक ओन्ली 
+
+
+print(B.keys()) # gives  ओन्ली keys  name 
+
