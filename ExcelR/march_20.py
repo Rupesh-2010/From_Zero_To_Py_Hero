@@ -55,7 +55,8 @@ B = {
 }
 
 # B.update({"Name": "Rupes"}) #अपडेट करेल abc to  RUpes. Dict  मधील Value  बडल्यानसाठी हिसतरीकक ओन्ली 
+# print(B.keys()) # gives ओन्ली keys name 
+print(B.get("Roll Num")) #it give the specific data`s key value.
 
 
-print(B.keys()) # gives  ओन्ली keys  name 
 

@@ -1,19 +1,19 @@
 12-03-2024 Start
 MARCH
 13 Veriable, DataTypes, Oprators
-14 cnl
-15 cnl
-16 cnl
+14 -
+15 -
+16 -
 17 Looping statment--> While, For, Range Function
 18 List
 19 Tuple
 20 Set,Dict
-21 cnl
+21 -
 22 saturday
 23 Sunday
-24 cnls
-25 cnls
-26 cnls
+24 -
+25 -
+26 -
 27 
 28 
 29 saturday
