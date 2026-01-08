@@ -1,7 +1,7 @@
 '''
-1 for snake
--1 for water
-0 for gun
+S for snake
+W for water
+G for gun
 '''
 import random
 
